@@ -19,7 +19,7 @@
   ],
   "options": {
     "RS485": {
-      "type": "Serial"
+      "type": "Socket"
     },
     "Socket": {
       "server": "192.168.x.x",
