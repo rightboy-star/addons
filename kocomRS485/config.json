@@ -149,7 +149,7 @@
       "elevator": "bool"
     },
     "Advanced": {
-      "INIT_TEMP": "int(5,30)",
+      "INIT_TEMP": "int(10,30)",
       "SCAN_INTERVAL": "int(100,1000)",
       "SCANNING_INTERVAL": "float",
       "DEFAULT_SPEED" : "str",
